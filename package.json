@@ -1,0 +1,28 @@
+{
+  "name": "lit-mustache",
+  "version": "0.0.0-pre0",
+  "description": "Code Mustache Templates literal",
+  "main": "dist/lit-mustache.js",
+  "module": "src/lit-mustache.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/direktspeed/lit-mustache.git"
+  },
+  "keywords": [
+    "literal",
+    "mustache",
+    "template"
+  ],
+  "author": "Frank Lemanschik <frank@dspeed.eu>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/direktspeed/lit-mustache/issues"
+  },
+  "homepage": "https://github.com/direktspeed/lit-mustache#readme",
+  "devDependencies": {
+    "mustache": "^3.0.1"
+  }
+}
