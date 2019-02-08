@@ -1,5 +1,7 @@
 # lit-mustache
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/direktspeed/lit-mustache.svg)](https://greenkeeper.io/)
+
 ## Usage
 ```js
 const mustache = require('lit-mustache')
